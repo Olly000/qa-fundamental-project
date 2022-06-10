@@ -1,4 +1,4 @@
-# qa-foundation-project
+# qa-fundamental-project
 Inventory management app written in Java
 
 ## Objective
